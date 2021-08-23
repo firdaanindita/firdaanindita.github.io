@@ -1,9 +1,14 @@
-## Welcome to My Pages
+title: La La Land
+
+## Firda Anindita Latifah
+
+An intellectually curious and self-motivated statistics graduate. Interested in a career as a business intelegence analyst. Have experience as intern staff in PT. Solusi 247 Yogyakarta. Skilled in data analysis, data visualization, and problem-solving to give an effective and objective business solutions. Proficient in using Ms. Office, Tableau, and SQL server.
 
 You can use the [editor on GitHub](https://github.com/firdaanindita/firdaanindita.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+##
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
